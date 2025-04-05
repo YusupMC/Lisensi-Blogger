@@ -1,0 +1,6 @@
+[05-Apr-2025 09:49:41 UTC] PHP Warning:  file_get_contents(license.json): Failed to open stream: No such file or directory in /home/smkstekn/lisensi.yusupmadcani.my.id/api/cek_lisensi.php on line 9
+[05-Apr-2025 09:49:41 UTC] PHP Fatal error:  Uncaught TypeError: array_filter(): Argument #1 ($array) must be of type array, null given in /home/smkstekn/lisensi.yusupmadcani.my.id/api/cek_lisensi.php:14
+Stack trace:
+#0 /home/smkstekn/lisensi.yusupmadcani.my.id/api/cek_lisensi.php(14): array_filter()
+#1 {main}
+  thrown in /home/smkstekn/lisensi.yusupmadcani.my.id/api/cek_lisensi.php on line 14
