@@ -98,5 +98,5 @@ Untuk perubahan besar, silakan buka issue terlebih dahulu untuk diskusi.
 > - Penyimpanan data lisensi menggunakan file JSON
 > - Verifikasi lisensi langsung di template Blogger via JavaScript
 
-[Lisensi-Blogger-main.zip](https://github.com/user-attachments/files/19615052/Lisensi-Blogger-main.zip)
+
 
