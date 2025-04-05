@@ -89,4 +89,14 @@ Pull request sangat disambut!
 Untuk perubahan besar, silakan buka issue terlebih dahulu untuk diskusi.
 
 ---
+![Version](https://img.shields.io/badge/version-v1.1-blue)
+
+> **Versi:** `V.1.1`  
+> Rilis pertama dari sistem Lisensi Blogger dengan fitur:
+> - Validasi domain pengguna via `proxy_lisensi.php`
+> - Dashboard Admin berbasis SBAdmin (Bootstrap 5)
+> - Penyimpanan data lisensi menggunakan file JSON
+> - Verifikasi lisensi langsung di template Blogger via JavaScript
+
+[Lisensi-Blogger-main.zip](https://github.com/user-attachments/files/19615052/Lisensi-Blogger-main.zip)
 
