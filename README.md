@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
 &lt;/script&gt;
 </pre>
 
-📌 **Catatan:** Pastikan domain pengguna sudah ditambahkan di dashboard admin dan endpoint `proxy_lisensi.php` dapat diakses secara publik.
+📌 **Catatan:** Pastikan domain pengguna sudah ditambahkan di dashboard admin dan endpoint `proxy_lisensi.php` dapat diakses secara publik, dan link https://lisensi.yusupmadcani.my.id/ ganti sesuai dengan website sumber lisensi masing-masing
 
 
 ---
