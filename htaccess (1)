@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Arahkan semua permintaan ke dashboard/index.php
+RewriteRule ^$ dashboard/index.php [L]
+
+# Jika ada request ke file atau folder, biarkan
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Selain itu tetap arahkan ke dashboard/index.php
+RewriteRule ^(.*)$ dashboard/index.php [L]
