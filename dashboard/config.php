@@ -1,3 +1,3 @@
 <?php
 $admin_user = "admin";
-$admin_pass = "@technoYPPG215";
+$admin_pass = "12345";
