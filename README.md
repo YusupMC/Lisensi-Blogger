@@ -98,5 +98,11 @@ Untuk perubahan besar, silakan buka issue terlebih dahulu untuk diskusi.
 > - Penyimpanan data lisensi menggunakan file JSON
 > - Verifikasi lisensi langsung di template Blogger via JavaScript
 
+---
+![Version](https://img.shields.io/badge/version-v1.2-blue)
 
+> **Versi:** `V.1.2`  
+> Rilis kedua dari sistem Lisensi Blogger dengan penambahan fitur:
+> - Status otomatis *expired* ketika sudah melewati tanggal
+> - Perpanjang otomatis pert tahun dengan hanya klik tombol perpanjang
 
